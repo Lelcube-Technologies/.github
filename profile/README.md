@@ -1,2 +1,2 @@
-# Lelcube Technologies
+# leltech
 uhh
